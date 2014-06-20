@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Top of originality
+  Hello, I am a git-newbie.
